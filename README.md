@@ -43,6 +43,7 @@ After taking The Complete React Native course by [Stephen Grider](https://x.com/
 - [Blog by Andrei Calazans](https://andrei-calazans.com/)
 - [About the New Architecture](https://reactnative.dev/architecture/landing-page)
 - [React Native Docs](https://reactnative.dev/docs/getting-started)
+- [Sunsetting React Native](https://medium.com/airbnb-engineering/sunsetting-react-native-1868ba28e30a)
 
 **Newsletters:**
 
