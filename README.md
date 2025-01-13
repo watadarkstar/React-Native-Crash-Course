@@ -25,6 +25,7 @@ After taking The Complete React Native course by [Stephen Grider](https://x.com/
 
 **Open Source Applications:**  
 
+- [Bluesky Social](https://github.com/bluesky-social/social-app)
 - [Mattermost](https://github.com/mattermost/mattermost-mobile)
 - [Hey Linda](https://github.com/heylinda/heylinda-app)
 - [React Native Source Code](https://github.com/facebook/react-native)
