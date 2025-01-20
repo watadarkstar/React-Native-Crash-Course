@@ -41,6 +41,7 @@ After taking The Complete React Native course by [Stephen Grider](https://x.com/
 **Helpful Websites**
 
 - [Ultimate Guide to React Native Optimization 2024](https://www.callstack.com/ebook/the-ultimate-guide-to-react-native-optimization)
+- [Five years of React Native at Shopify (2025)](https://shopify.engineering/five-years-of-react-native-at-shopify)
 - [Blog by Andrei Calazans](https://andrei-calazans.com/)
 - [About the New Architecture](https://reactnative.dev/architecture/landing-page)
 - [React Native Docs](https://reactnative.dev/docs/getting-started)
