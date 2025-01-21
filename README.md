@@ -46,6 +46,7 @@ After taking The Complete React Native course by [Stephen Grider](https://x.com/
 - [About the New Architecture](https://reactnative.dev/architecture/landing-page)
 - [React Native Docs](https://reactnative.dev/docs/getting-started)
 - [Sunsetting React Native](https://medium.com/airbnb-engineering/sunsetting-react-native-1868ba28e30a)
+- [Run E2E tests on EAS Build](https://docs.expo.dev/build-reference/e2e-tests/)
 
 **Newsletters:**
 
