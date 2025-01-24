@@ -47,6 +47,8 @@ After taking The Complete React Native course by [Stephen Grider](https://x.com/
 - [React Native Docs](https://reactnative.dev/docs/getting-started)
 - [Sunsetting React Native](https://medium.com/airbnb-engineering/sunsetting-react-native-1868ba28e30a)
 - [Run E2E tests on EAS Build](https://docs.expo.dev/build-reference/e2e-tests/)
+- [Copy-paste components & patterns crafted with Tailwind CSS](https://gluestack.io/)
+- [Ship Your Mobile App in Days not Weeks Boilerplate](https://shipmobilefast.com/)
 
 **Newsletters:**
 
