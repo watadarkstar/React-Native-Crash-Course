@@ -29,6 +29,7 @@ After taking The Complete React Native course by [Stephen Grider](https://x.com/
 - [Mattermost](https://github.com/mattermost/mattermost-mobile)
 - [Hey Linda](https://github.com/heylinda/heylinda-app)
 - [React Native Source Code](https://github.com/facebook/react-native)
+- [Expo AI](https://github.com/EvanBacon/expo-ai)
 
 **Videos/Lectures:**  
 
